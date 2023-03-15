@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on @SphereEx
+- 🔭 I’m currently working on [@SphereEx](https://github.com/SphereEx)
 - 🌱 I’m currently learning kubernetes, shardingsphere
