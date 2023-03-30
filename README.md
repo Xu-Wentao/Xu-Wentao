@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [shardingsphere-on-cloud](https://github.com/apache/shardingsphere-on-cloud)
 - 🌱 I’m currently learning kubernetes, shardingsphere ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=Xu-Wentao&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" width="480"/>
+<span/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xu-Wentao&layout=compact&hide=html,css,scss&langs_count=10" height="200">
